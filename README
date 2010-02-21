@@ -1,0 +1,10 @@
+Pickup Bot for Savage2.
+
+Short Description:
+
+Bot residents on IRC channel + in game lobby.
+Any user on IRC and in Lobby can !add to pickup.
+When enough players available for pickup bot queries players on IRC and in game to join the pickup server and gives password to users.
+Also bot start servers for pickup and change passwords.
+
+
